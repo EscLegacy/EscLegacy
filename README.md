@@ -1,4 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham</h1>
+<p align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham</p>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrL0_V4orULa4p6lev7P3it-gLTFfJ_dscw&usqp=CAU"
+                        width="100px"/></p>
+<h1 align="center">
+     A passionate frontend<br>and backend Developer<br>🚀
+</h1>
+
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
