@@ -5,12 +5,7 @@
      A passionate frontend<br>and backend Developer<br>🚀
 </h1>
 
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently in NIIT
 
 <!---
 EscLegacy/EscLegacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
