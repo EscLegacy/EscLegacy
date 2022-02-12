@@ -4,13 +4,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently **NIIT**
+- 🔭 I’m currently at **NIIT**
 
-- 🌱 I’m currently learning **Looking for Jobs**
+- 🌱 I’m currently **Looking for Jobs**
 
 - 📫 How to reach me **shubhamprakash6@gmail.com** or **shubhambharadwaj73@gmail.com**
 
-- ⚡ Fun fact **Valorant**
+- ⚡ Fun fact **The dimensional fabric here is thin. I'll tear through. -Yoru(Valorant)**
 
 ## 🚀 Languages and Tools:
 
